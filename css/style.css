@@ -1,4 +1,10 @@
-body{
-	width:"100px"
-	higth:"100px"
-	}
+*{
+	box-sizing: border-box;
+}
+
+h2{
+	text-align: center;
+	background-color: gray;
+	border: 1px solid black;
+	color: greenyellow;
+}
